@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently a post-grad Mobile Application Development student at Fanshawe College<br>      learning new technologies everyday 😉.<br>👯 I’m looking to collaborate as a software developer.<br>🌱 I’m currently learning React-native and iOS development.<br>💬 Ask me about flutter development.
+🔭 I’m currently a post-grad Mobile Application Development student at Fanshawe College learning new technologies everyday 😉.<br>👯 I’m looking to collaborate as a software developer.<br>🌱 I’m currently learning React-native and iOS development.<br>💬 Ask me about flutter development.
 
 <!--
 ## 🌐 Socials:
